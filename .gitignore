@@ -1,0 +1,7 @@
+target/
+*assigment.sbt
+*.idea
+*.DS_Store
+*iml
+**project/
+**classes/
